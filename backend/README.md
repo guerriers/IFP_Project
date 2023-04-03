@@ -6,7 +6,7 @@
 - สร้าง repositiory โดย new repository ใน Github ตั้งชื่อว่า test
 - ไปที่ command line โดยใช้คำสั่ง
 
-          git clone https://github.com/intelligentfarmingplatform/test.git
+          git clone https://github.com/guerriers/IFP_Project.git
 
   โดย HTTPS นี้ ดูได้จาก repository ที่เราสร้างขึ้นมา หลังจากนั้นจะได้ folder ที่ชื่อว่า test
 - ให้ copy file และ folder ทั้งหมดที่อยู่ใน project งานของเรา `ยกเว้น folder ที่ชื่อว่า .git` จากนั้นนำไป paste ใน folder ที่ชื่อว่า test 
